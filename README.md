@@ -10,6 +10,11 @@
 
 ###
 
+<h3 align="left">Hint:</h3>
+<p>Secret Phrase: idontknow</p>
+
+###
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
